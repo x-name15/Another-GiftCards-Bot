@@ -1,0 +1,45 @@
+------------GIFTCARDS---------------------
+nitro
+nitrobox
+nike
+netflix
+spotify
+blizzard
+robux
+mcwin10
+mckey
+dstoken [A Discord Token]
+uplay
+malwarebytes
+avast
+exvpn
+hma
+zaltv
+paysafe
+steamkey
+amazon
+xbox
+itunes
+playstore
+psn
+paypal
+nintendo
+proxyscrape
+webkinz
+imvu
+pkmtcg
+-----------BOT OWNER----------
+cleancmd [Clears all the cmd]
+gcdrop [Drops all GIFTCARDS]
+------------------------------
+Proxies Scraping
+socks4
+socks5
+http
+-----------Moderation---------
+ban [Ban Members True]
+kick [Kick Members True]
+nuke [Administrator]
+purge [Administrator]
+unban [Administrator]
+-----------------------------

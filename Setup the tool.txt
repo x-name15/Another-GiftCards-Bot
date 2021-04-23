@@ -1,0 +1,7 @@
+Hey, first of all in the config folder open 2 sub folders, one that is the bot and another that is the command cooldown
+In the bot folder in their respective TXT you put your token, prefix and the bot's RPC
+In the cooldown folder you will put the per and rate
+Per = the amount of seconds the cooldown lasts
+Rate = how many times the command can be used before triggering the cooldown
+
+In the file commands.txt will be the bot commands and there are also 2 help type commands

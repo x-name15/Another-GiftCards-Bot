@@ -1,0 +1,8 @@
+{
+    "token": "Token-Here" ,
+    "prefix": "$" ,
+    "RPC": "Rich Presence Here",
+    "rate": "1" ,
+    "per": "15"
+
+}
